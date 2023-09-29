@@ -103,7 +103,7 @@ Contact me directly if you have issues with your partner.
 
 There will be two synchronous tests in this course: a midterm and a final. The midterm will roughly be worth as much as a single homework assignment (~10%). The final will be worth 30%.
 
-The midterm will be given halfway through the class: TODO
+The midterm will be given halfway through the class on Oct. 30.
 
 The final will be given on TODO
 
