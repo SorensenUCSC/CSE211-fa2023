@@ -93,6 +93,12 @@ Homeworks are due at midnight on their due date, but do not plan on help after 5
 
 Please help each other with infastructure questions! I cannot help you with anything outside of emacs and the command line! Many people like to use VSCode or PyCharm but I do not know these frameworks and I cannot officially support them for the homework/grading. 
 
+Homeworks will be given as pair programming assignments. Please adhere to pair programming principles: that is, do your best to code at the same time, preferably with one person writing code and the other reviewing in real time. You will quickly discover that you will have fewer bugs this way!
+
+You will need to pick different partners for each assignment. Please get to know your colleagues. If you have the same partner for a second assignment, your work may not be graded. 
+
+Contact me directly if you have issues with your partner.
+
 ## Tests:
 
 There will be two synchronous tests in this course: a midterm and a final. The midterm will roughly be worth as much as a single homework assignment (~10%). The final will be worth 30%.
@@ -118,9 +124,9 @@ The review should roughly be 4 pages double spaced. Please organize it as follow
 - **Illustrative example:** find a small example that you can clearly explain, especially related to the compiler component. This might be a small program and a description of how the compiler transforms the program.
 - **Key results:** what are the important results of this paper and how did the compiler enable them?
 
-Please pre-approve the paper with me. Additionally, I can suggest papers. You will need to have your paper approved two weeks before the quarter ends. The report will be due on the day of the final. Dates for the paper assignment are summarized [here](schedule.html#paper-assignments-and-final-projects).
+Please pre-approve the papers with me by making an instructor-private piazza post. You are in charge of getting the paper approved two weeks before the review deadlines. You will read one paper before halfway point of the class, and another paper in the second half of the class.
 
-A list of papers can be found [here](https://docs.google.com/spreadsheets/d/1C5zMXC_RC94EmgmJVOliwYLylEyDUmK9KCO8oixaC3k/edit?usp=sharing). Please feel free to propose new papers. Even if you select from the list, you will still need to get the paper approved. 
+A list of papers can be found [here](https://docs.google.com/spreadsheets/d/1C5zMXC_RC94EmgmJVOliwYLylEyDUmK9KCO8oixaC3k/edit?usp=sharing). Please feel free to propose new papers. Even if you select from the list, you will still need to get the paper approved. Additionally, I can help suggest papers if you let me know what you are interested in. 
 
 ## Final Project
 
