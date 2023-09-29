@@ -11,7 +11,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 | Date             | Topic                                | Slides                 |   Reading       |  Notes 
 |------------------|--------------------------------------|------------------------|-----------------|-
-| Fri, Sept. 28    |  introduction                        |                        | EAC Chapter 1   | 
+| Fri, Sept. 28    |  introduction                        | [slides](lectures/CSE211Sept29_fa2023.pdf) | EAC Chapter 1   | 
 | Mon, Oct. 2      |  tokenizing                          |                        | EAC Chapter 2   |
 | Wed, Oct. 4      |  parsing                             |                        | EAC Chapter 2   |
 | Fri, Oct. 6      |  parse trees                         |                        | EAC Chapter 3   | 
