@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /index.html
+  - title: "Overview"
+    url: /overview.html
+  - title: "Schedule"
+    url: /schedule.html
+  - title: "References"
+    url: /references.html
+  - title: "Homework Setup"
+    url: /homework-setup.html
+  - title: "Projects"
+    url: /projects.html
