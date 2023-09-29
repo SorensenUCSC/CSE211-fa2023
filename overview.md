@@ -69,6 +69,12 @@ Please sign up for only 1 slot at a time. If there is no other student waiting a
 
 The sign-up sheet is meant to provide fairness; as such I will be strict about keeping to the schedule. Please forgive any abruptness.
 
+## TA:
+
+We have one TA this quarter: [Rithik Sharma](https://sharmarithik.github.io/rithiksharma/). He will help with grading, office hours, and the overall wellbeing of the class. Please meet with him!
+
+Office hours: TBD
+
 ## Asynchronous Communication
 
 For any questions outside of office hours: Please post to the class forum (Piazza). If these are sensitive questions, please make the post private. If it is more general, make it visible to the rest of class. If it isn't clear if it is a sensitive question or not, please start out by making the question private and I will advise on making it public or not. Feel free to answer questions that your classmates post or freely participate in discussions there!
