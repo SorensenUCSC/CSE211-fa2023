@@ -18,7 +18,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Mon, Oct. 9      |  Abstract syntax trees               |                        | EAC Chapter 5.1 | 
 | Wed, Oct. 11     |  parser generators                   |                        | [PLY docs](https://www.dabeaz.com/ply/)                | homework 1 assigned
 | Fri, Oct. 13     |  parsing with derivatives            |                        | parsing with derivatives [paper](https://www.ccs.neu.edu/home/turon/re-deriv.pdf) (first 7 pages) |
-| Mon, Oct. 16     |  Symbol tables                       |                        | slides          |
+| Mon, Oct. 16     |  symbol tables                       |                        | slides          |
 
 
 
@@ -26,15 +26,17 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 _dates will be modified to adjust for extra time spent on earlier modules._
 
-| Date             | Topic    | Slides | Reading | Notes
-|------------------|----------|--------|----------------|-
-| Fri, Oct. 13    | 3 address code and local value numbering     |  [slides](lectures/CSE211Oct11_fa2022.pdf)       | EAC Chapter 8 (up to 8.5) | Tyler gone, lecture will be recorded
-| Mon, Oct. 16   | Regional optimizations                           |   [slides](lectures/CSE211Oct13_fa2022.pdf)       | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | 
-| Wed, Oct. 18    |         |    [slides](lectures/CSE211Oct18_fa2022.pdf)     | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | homework 1 due. homework 2 assigned
-| Fri, Oct. 20   | static single-assignment (SSA) form                       |    [slides](lectures/CSE211Oct20_fa2022.pdf)      | EAC Chapter 9.3 (through end) | Tyler gone, lecture will be recorded
-| Mon, Oct. 23    | SSA optimizations |  [slides](lectures/CSE211Oct25_fa2022.pdf)     | EAC Chapter 9.3 - 9.5  | 
-| Wed, Oct. 25    | SSA optimizations |  [slides](lectures/CSE211Oct25_fa2022.pdf)     | EAC Chapter 9.3 - 9.5  | 
-
+| Date             | Topic                              | Slides | Reading                                   | Notes
+|------------------|------------------------------------|--------|-------------------------------------------|-
+| Wed, Oct. 18     | local value numbering 1            |        | EAC Chapter 8 (up to 8.5)                 | 
+| Fri, Oct. 20     | local value numbering 2            |        |                                           |
+| Mon, Oct. 23     | regional optimizations             |        | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | 
+| Wed, Oct. 25     | global optimizations 1             |        |                                           | homework 1 due. homework 2 assigned
+| Fri, Oct. 27     | global optimizations 2             |        |                                           | 
+| Mon, Oct. 30     | MIDTERM                            |        |                                           |
+| Wed, Nov. 1      | static single-assignment SSA) form |        | EAC Chapter 9.3 (through end)             | 
+| Fri, Nov. 3      | SSA optimizations 1                |        | EAC Chapter 9.3 - 9.5                     | 
+| Mon, Nov. 6      | SSA optimizations 2                |        | EAC Chapter 9.3 - 9.5                     | 
 
 
 ### Module 3: Parallelization and DSLs
