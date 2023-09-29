@@ -9,13 +9,17 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 ### Module 1: Parsing Overview/Refresher
 
-| Date             | Topic    | Slides |   Reading |  Notes 
-|------------------|----------|--------|----------------|-
-| Thurs, Sept. 22  |  introduction           |   [slides](lectures/CSE211Sept22_fa2022.pdf)     | EAC Chapter 1 | 
-| Tues, Sept. 27   |  tokenizing and parsing                |   [slides](lectures/CSE211Sept27_fa2022.pdf)     | EAC Chapter 2 |
-| Thurs, Sept. 29  |  parse trees  |  [slides](lectures/CSE211Sept29_fa2022.pdf)      | EAC Chapter 3 | 
-| Tues, Oct. 4     | symbol tables and parser generators  |   [slides](lectures/CSE211Oct4_fa2022.pdf)     | [PLY docs](https://www.dabeaz.com/ply/) | homework 1 assigned
-| Thurs, Oct. 6    |  parsing with derivatives             |   [slides](lectures/CSE211Oct6_fa2022.pdf)     | parsing with derivatives [paper](https://www.ccs.neu.edu/home/turon/re-deriv.pdf) (first 7 pages)
+| Date             | Topic                                | Slides                 |   Reading       |  Notes 
+|------------------|--------------------------------------|------------------------|-----------------|-
+| Fri, Sept. 28    |  introduction                        |                        | EAC Chapter 1   | 
+| Mon, Oct. 2      |  tokenizing                          |                        | EAC Chapter 2   |
+| Wed, Oct. 4      |  parsing                             |                        | EAC Chapter 2   |
+| Fri, Oct. 6      |  parse trees                         |                        | EAC Chapter 3   | 
+| Mon, Oct. 9      |  Abstract syntax trees               |                        | EAC Chapter 5.1 | 
+| Wed, Oct. 11     |  parser generators                   |                        | [PLY docs](https://www.dabeaz.com/ply/)                | homework 1 assigned
+| Fri, Oct. 13     |  parsing with derivatives            |                        | parsing with derivatives [paper](https://www.ccs.neu.edu/home/turon/re-deriv.pdf) (first 7 pages) |
+| Mon, Oct. 16     |  Symbol tables                       |                        | slides          |
+
 
 
 ### Module 2: Analysis and optimization
@@ -24,11 +28,12 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 
 | Date             | Topic    | Slides | Reading | Notes
 |------------------|----------|--------|----------------|-
-| Tues, Oct. 11    | 3 address code and local value numbering     |  [slides](lectures/CSE211Oct11_fa2022.pdf)       | EAC Chapter 8 (up to 8.5) | Tyler gone, lecture will be recorded
-| Thurs, Oct. 13   | Regional optimizations                           |   [slides](lectures/CSE211Oct13_fa2022.pdf)       | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | 
-| Tues, Oct. 18    |         |    [slides](lectures/CSE211Oct18_fa2022.pdf)     | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | homework 1 due. homework 2 assigned
-| Thurs, Oct. 20   | static single-assignment (SSA) form                       |    [slides](lectures/CSE211Oct20_fa2022.pdf)      | EAC Chapter 9.3 (through end) | Tyler gone, lecture will be recorded
-| Tues, Oct. 25    | SSA optimizations |  [slides](lectures/CSE211Oct25_fa2022.pdf)     | EAC Chapter 9.3 - 9.5  | 
+| Fri, Oct. 13    | 3 address code and local value numbering     |  [slides](lectures/CSE211Oct11_fa2022.pdf)       | EAC Chapter 8 (up to 8.5) | Tyler gone, lecture will be recorded
+| Mon, Oct. 16   | Regional optimizations                           |   [slides](lectures/CSE211Oct13_fa2022.pdf)       | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | 
+| Wed, Oct. 18    |         |    [slides](lectures/CSE211Oct18_fa2022.pdf)     | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | homework 1 due. homework 2 assigned
+| Fri, Oct. 20   | static single-assignment (SSA) form                       |    [slides](lectures/CSE211Oct20_fa2022.pdf)      | EAC Chapter 9.3 (through end) | Tyler gone, lecture will be recorded
+| Mon, Oct. 23    | SSA optimizations |  [slides](lectures/CSE211Oct25_fa2022.pdf)     | EAC Chapter 9.3 - 9.5  | 
+| Wed, Oct. 25    | SSA optimizations |  [slides](lectures/CSE211Oct25_fa2022.pdf)     | EAC Chapter 9.3 - 9.5  | 
 
 
 
