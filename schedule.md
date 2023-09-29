@@ -67,8 +67,8 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 ## Final
 
 
-| Date             | Official time    | Provided time | Notes
-|------------------|----------|--------|----------------
-| Thursday Dec. 8     | 12 - 3 PM    | 8 AM - 8 PM      | Final project report due, paper review due
+| Date             | Official time   | Notes  
+|------------------|-----------------|--------
+| Tuesday, Dec. 12 | 8–11 AM         | Final project report due, last paper review due
 
 
