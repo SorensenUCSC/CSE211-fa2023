@@ -51,12 +51,6 @@ We plan to host a class forum, likely in Piazza. If you organize other forums ou
 
 _A few classes will be asynchronous due to travel, see the schedule. I will provide Zoom links on Canvas_
 
-## Attendance
-
-This is a small graduate course and live discussions will be a valuable part of the learning experience. As such, I expect you to make an effort to attend. **Attendance will be 10% of your grade**. I will take role at the beginning of each class.
-
-Please message me if you will miss a lecture to avoid losing attendance credit. You can have up to 3 excused absences. 
-
 ## Discussion
 
 Each class will start with a set of discussion points. Please come prepared to partipate. This is often the most exciting part of class and I hope it can continue to be!
