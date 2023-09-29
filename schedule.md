@@ -15,8 +15,8 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Mon, Oct. 2      |  tokenizing                          |                        | EAC Chapter 2   |
 | Wed, Oct. 4      |  parsing                             |                        | EAC Chapter 2   |
 | Fri, Oct. 6      |  parse trees                         |                        | EAC Chapter 3   | 
-| Mon, Oct. 9      |  Abstract syntax trees               |                        | EAC Chapter 5.1 | 
-| Wed, Oct. 11     |  parser generators                   |                        | [PLY docs](https://www.dabeaz.com/ply/)                | homework 1 assigned
+| Mon, Oct. 9      |  parser generators                   |                        | [PLY docs](https://www.dabeaz.com/ply/) | homework 1 assigned
+| Wed, Oct. 11     |  Abstract syntax trees               |                        | EAC Chapter 5.1 | 
 | Fri, Oct. 13     |  parsing with derivatives            |                        | parsing with derivatives [paper](https://www.ccs.neu.edu/home/turon/re-deriv.pdf) (first 7 pages) |
 | Mon, Oct. 16     |  symbol tables                       |                        | slides          |
 
@@ -30,8 +30,8 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 |------------------|------------------------------------|--------|-------------------------------------------|-
 | Wed, Oct. 18     | local value numbering 1            |        | EAC Chapter 8 (up to 8.5)                 | 
 | Fri, Oct. 20     | local value numbering 2            |        |                                           |
-| Mon, Oct. 23     | regional optimizations             |        | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | 
-| Wed, Oct. 25     | global optimizations 1             |        |                                           | homework 1 due. homework 2 assigned
+| Mon, Oct. 23     | regional optimizations             |        | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | homework 1 due. homework 2 assigned
+| Wed, Oct. 25     | global optimizations 1             |        |                                           | 
 | Fri, Oct. 27     | global optimizations 2             |        |                                           | 
 | Mon, Oct. 30     | MIDTERM                            |        |                                           |
 | Wed, Nov. 1      | static single-assignment SSA) form |        | EAC Chapter 9.3 (through end)             | 
@@ -44,13 +44,13 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 | Date             | Topic                             | Slides |  Readings      | Notes
 |------------------|-----------------------------------|--------|----------------|-
 | Wed, Nov. 8      | Instruction level parallelism     |        |                |
-| Mon, Nov. 13     | parallel for loops                |        |                | 
-| Wed, Nov. 15     | implementing parallel for loops   |        |                |
+| Mon, Nov. 13     | parallel for loops                |        |                | homework 2 due. homework 3 assigned
+| Wed, Nov. 15     | implementing parallel for loops   |        |                | 
 | Fri, Nov. 17     | loop restructuring                |        |                | 
 | Mon, Nov. 20     | Halide                            |        |  [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) |  
 | Wed, Nov. 22     | graph DSLs                        |        | [irgl](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)  | 
 | Mon, Nov. 27     | compiling relaxed memory models   |        |                | 
-| Wed, Nov. 29     | decoupled access/execute          |        | [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) | 
+| Wed, Nov. 29     | decoupled access/execute          |        | [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) | homework 3 due. homework 4 assigned
 
 
 
@@ -70,5 +70,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 | Date             | Official time   | Notes  
 |------------------|-----------------|--------
 | Tuesday, Dec. 12 | 8–11 AM         | Final project report due, last paper review due
+
+_Homework 4 will be due Dec. 15_
 
 
