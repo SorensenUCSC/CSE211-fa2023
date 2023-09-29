@@ -27,7 +27,7 @@ Because this is a graduate level class, I do expect a general strong CS foundati
 
 ## Class Modules
 
-This class will be split into 5 modules, each of which are roughly two weeks. The first two modules will follow a typical course structure. The third will start to transition into more of a reading group structure where we discuss important papers in the area.
+This class will be split into 4 modules, each of which are roughly 2.5 weeks. The first two modules will follow a typical course structure. The third will start to transition into more of a reading group structure where we discuss important papers in the area.
 
 * **Module 1: Parsing Overview:** We will discuss the components of a parser: including tokenizing, grammar specification, and parser generators. 
 
@@ -35,9 +35,8 @@ This class will be split into 5 modules, each of which are roughly two weeks. Th
 
 * **Module 3:  Parallelization and DSLs:** We will discuss how compilers can be used to transform sequential code blocks into equivalent forms that can be executed in parallel. We will explore domain specific languages that further facilitate this automatic translation. 
 
-* **Module 4: Advanced Topics:** We will read impactful papers in the area and discuss them. We will adjust based on class interest, but topics may include optimization evaluation and synthesis.
+* **Module 4: Advanced Topics:** The last few classes will have presentations from final projects and advanced topics (potentially guest lectures!).
 
-* **Module 5: Final Project Presentation and Guest Lecture:** The last few classes will have presentations from final projects and a guest lecture (if there is time).
 
 ## Class Format
 
@@ -105,7 +104,7 @@ There will be two synchronous tests in this course: a midterm and a final. The m
 
 The midterm will be given halfway through the class on Oct. 30.
 
-The final will be given on TODO
+The final will be given on Tuesday Dec. 12 from 8 - 11 AM
 
 You are allowed up to 3 pages of notes for both tests
 
