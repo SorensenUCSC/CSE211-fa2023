@@ -13,7 +13,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 |------------------|--------------------------------------|------------------------|-----------------|-
 | Fri, Sept. 28    |  introduction                        | [slides](lectures/CSE211Sept29_fa2023.pdf) | EAC Chapter 1   | 
 | Mon, Oct. 2      |  tokenizing                          | [slides](lectures/CSE211Oct2_fa2023.pdf)   | EAC Chapter 2   |
-| Wed, Oct. 4      |  parsing                             |                        | EAC Chapter 2   |
+| Wed, Oct. 4      |  parsing                             | [slides](lectures/CSE211Oct4_fa2023.pdf)                       | EAC Chapter 2   |
 | Fri, Oct. 6      |  parse trees                         |                        | EAC Chapter 3   | 
 | Mon, Oct. 9      |  parser generators                   |                        | [PLY docs](https://www.dabeaz.com/ply/) | homework 1 assigned
 | Wed, Oct. 11     |  Abstract syntax trees               |                        | EAC Chapter 5.1 | 
