@@ -60,7 +60,7 @@ UC Santa Cruz is committed to creating an academic environment that supports its
 
 ## Office Hours:
 
-I will provide 2 office hours per week: the time will be set soon.
+I will provide 2 office hours per week: on Thursdays 3 - 5 PM
 
 My office hours can be remote or in-person. My physical office is E2-233 (I finally got a nameplate!). I will provide a Zoom link on canvas. I manage the office hours through a Google doc sign-up sheet. I will reset the list around noon on Wednesday and notify with a canvas announcement. Any name on the list before then will be erased.
 
