@@ -72,7 +72,8 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 We have one TA this quarter: [Rithik Sharma](https://sharmarithik.github.io/rithiksharma/). He will help with grading, office hours, and the overall wellbeing of the class. Please meet with him!
 
-Office hours: TBD
+Office hours: Tuesdays 2 - 3 PM and Thursdays 1 - 2 PM, BE 151 and virtually.
+A signup sheet will be shared before the office hours.
 
 ## Asynchronous Communication
 
