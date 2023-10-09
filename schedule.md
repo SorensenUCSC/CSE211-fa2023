@@ -15,7 +15,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Mon, Oct. 2      |  tokenizing                          | [slides](lectures/CSE211Oct2_fa2023.pdf)   | EAC Chapter 2   |
 | Wed, Oct. 4      |  parsing                             | [slides](lectures/CSE211Oct4_fa2023.pdf)   | EAC Chapter 2   |
 | Fri, Oct. 6      |  parse trees                         | [slides](lectures/CSE211Oct6_fa2023.pdf)   | EAC Chapter 3   | 
-| Mon, Oct. 9      |  parser generators                   |                        | [PLY docs](https://www.dabeaz.com/ply/) | homework 1 assigned
+| Mon, Oct. 9      |  parser generators                   | [slides](lectures/CSE211Oct9_fa2023.pdf)                       | [PLY docs](https://www.dabeaz.com/ply/) | homework 1 assigned
 | Wed, Oct. 11     |  Abstract syntax trees               |                        | EAC Chapter 5.1 | 
 | Fri, Oct. 13     |  parsing with derivatives            |                        | parsing with derivatives [paper](https://www.ccs.neu.edu/home/turon/re-deriv.pdf) (first 7 pages) |
 | Mon, Oct. 16     |  symbol tables                       |                        | slides          |
