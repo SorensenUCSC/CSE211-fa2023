@@ -50,7 +50,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 | Mon, Nov. 20     | Halide                            |        |  [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) |  
 | Wed, Nov. 22     | graph DSLs                        |        | [irgl](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)  | 
 | Mon, Nov. 27     | compiling relaxed memory models   |        |                | 
-| Wed, Nov. 29     | decoupled access/execute          |        | [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) | homework 3 due. homework 4 assigned
+| Wed, Nov. 29     | Guest lectures!          |        |        | homework 3 due. homework 4 assigned
 
 
 
@@ -58,7 +58,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 
 | Date             | Topic                        | Slides  | Readings | Notes
 |------------------|------------------------------|---------|----------|- 
-| Fri. Dec. 1      | TBD                          |         |          | 
+| Fri. Dec. 1      | Decoupled access/execute     |         | [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf)          | 
 | Mon. Dec. 4      | TBD                          |         |          | Paper needs to be approved for review 2
 | Wed. Dec. 6      | final project presentations  |         |          | 
 | Fri. Dec. 8      | final project presentations  |         |          | 
