@@ -26,10 +26,10 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 _dates will be modified to adjust for extra time spent on earlier modules._
 
-| Date             | Topic                              | Slides | Reading                                   | Notes
-|------------------|------------------------------------|--------|-------------------------------------------|-
-| Wed, Oct. 18     | local value numbering 1            |        | EAC Chapter 8 (up to 8.5)                 | 
-| Fri, Oct. 20     | local value numbering 2            |        |                                           |
+| Date             | Topic                              | Slides                                     | Reading                                   | Notes
+|------------------|------------------------------------|--------------------------------------------|-------------------------------------------|-
+| Wed, Oct. 18     | Intro to optimizations and analysis| [slides](lectures/CSE211Sept29_fa2023.pdf) |                                           | 
+| Fri, Oct. 20     | local value numbering              |                                            | EAC Chapter 8 (up to 8.5)                 |
 | Mon, Oct. 23     | regional optimizations             |        | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | Paper needs to be approved for review 1
 | Wed, Oct. 25     | global optimizations 1             |        |                                           | Homework 1 due. homework 2 assigned. 
 | Fri, Oct. 27     | global optimizations 2             |        |                                           | 
