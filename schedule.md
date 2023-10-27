@@ -32,7 +32,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 | Fri, Oct. 20     | local value numbering              | [slides](lectures/CSE211Oct20_fa2023.pdf)  | EAC Chapter 8 (up to 8.5)                 |
 | Mon, Oct. 23     | regional optimizations             | [slides](lectures/CSE211Oct23_fa2023.pdf)  | EAC Chapter 8.5 and Chapter 9 (up to 9.3) | Paper needs to be approved for review 1
 | Wed, Oct. 25     | global optimizations 1             | [slides](lectures/CSE211Oct25_fa2023.pdf)  |                                           | Homework 1 due. homework 2 assigned. 
-| Fri, Oct. 27     | global optimizations 2             |        |                                           | 
+| Fri, Oct. 27     | global optimizations 2             | [slides](lectures/CSE211Oct27_fa2023.pdf)        |                                           | 
 | Mon, Oct. 30     | MIDTERM                            |        |                                           | Paper Review 1 due
 | Wed, Nov. 1      | static single-assignment SSA) form |        | EAC Chapter 9.3 (through end)             | 
 | Fri, Nov. 3      | SSA optimizations 1                |        | EAC Chapter 9.3 - 9.5                     | 
