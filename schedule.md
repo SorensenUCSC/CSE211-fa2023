@@ -34,7 +34,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 | Wed, Oct. 25     | global optimizations 1             | [slides](lectures/CSE211Oct25_fa2023.pdf)  |                                           | Homework 1 due. homework 2 assigned. 
 | Fri, Oct. 27     | global optimizations 2             | [slides](lectures/CSE211Oct27_fa2023.pdf)        |                                           | 
 | Mon, Oct. 30     | MIDTERM                            |        |                                           | Paper Review 1 due
-| Wed, Nov. 1      | static single-assignment SSA) form |        | EAC Chapter 9.3 (through end)             | 
+| Wed, Nov. 1      | static single-assignment SSA) form | [slides](lectures/CSE211Nov1_fa2023.pdf)       | EAC Chapter 9.3 (through end)             | 
 | Fri, Nov. 3      | SSA optimizations 1                |        | EAC Chapter 9.3 - 9.5                     | 
 | Mon, Nov. 6      | SSA optimizations 2                |        | EAC Chapter 9.3 - 9.5                     | 
 
