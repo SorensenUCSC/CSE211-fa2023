@@ -36,7 +36,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 | Mon, Oct. 30     | MIDTERM                            |        |                                   | Paper Review 1 due
 | Wed, Nov. 1      | static single-assignment SSA) form | [slides](lectures/CSE211Nov1_fa2023.pdf)   | EAC Chapter 9.3 (through end)             | 
 | Fri, Nov. 3      | SSA optimizations 1                | [slides](lectures/CSE211Nov3_fa2023.pdf)   | EAC Chapter 9.3 - 9.5                     | 
-| Mon, Nov. 6      | SSA optimizations 2                |        | EAC Chapter 9.3 - 9.5             | 
+| Mon, Nov. 6      | SSA optimizations 2                | [slides](lectures/CSE211Nov6_fa2023.pdf)   | EAC Chapter 9.3 - 9.5             | 
 
 
 ### Module 3: Parallelization and DSLs
