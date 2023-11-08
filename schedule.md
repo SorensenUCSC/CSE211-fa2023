@@ -43,7 +43,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 
 | Date             | Topic                             | Slides |  Readings      | Notes
 |------------------|-----------------------------------|--------|----------------|-
-| Wed, Nov. 8      | Instruction level parallelism     |        |                |
+| Wed, Nov. 8      | Instruction level parallelism     | [slides](lectures/CSE211Nov8_fa2023.pdf)       |                |
 | Mon, Nov. 13     | parallel for loops                |        |                | homework 2 due. homework 3 assigned
 | Wed, Nov. 15     | implementing parallel for loops   |        |                | 
 | Fri, Nov. 17     | loop restructuring                |        |                | 
