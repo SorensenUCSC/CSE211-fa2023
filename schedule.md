@@ -46,7 +46,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 | Wed, Nov. 8      | Instruction level parallelism     | [slides](lectures/CSE211Nov8_fa2023.pdf)       |                |
 | Mon, Nov. 13     | Instruction level parallelism 2   | [slides](lectures/CSE211Nov13_fa2023.pdf)        |                | homework 2 due. homework 3 assigned
 | Wed, Nov. 15     | parallel for loops                | [slides](lectures/CSE211Nov15_fa2023.pdf)       |                | 
-| Fri, Nov. 17     | loop restructuring                |        |                | 
+| Fri, Nov. 17     | parallel loop safety              | [slides](lectures/CSE211Nov17_fa2023.pdf)       |                | 
 | Mon, Nov. 20     | Halide                            |        |  [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) |  
 | Wed, Nov. 22     | graph DSLs                        |        | [irgl](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)  | 
 | Mon, Nov. 27     | compiling relaxed memory models   |        |                | 
