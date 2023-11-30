@@ -50,7 +50,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 | Mon, Nov. 20     | Halide                            | [slides](lectures/CSE211Nov20_fa2023.pdf)       |  [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) |  
 | Wed, Nov. 22     | Halide 2                          | [slides](lectures/CSE211Nov22_fa2023.pdf)       |   | 
 | Mon, Nov. 27     | compiling relaxed memory models   | [slides](lectures/CSE211Nov27_fa2023.pdf)       |                | 
-| Wed, Nov. 29     | Guest lectures!          |        |        | homework 3 due. homework 4 assigned
+| Wed, Nov. 29     | Guest lectures!          |        | [slides 1](lectures/LLVM-MLGO.pdf) [slides 2](lectures/GRANITE.pdf)       | homework 3 due. homework 4 assigned
 
 
 
