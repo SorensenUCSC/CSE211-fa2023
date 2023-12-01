@@ -58,7 +58,7 @@ _dates will be modified to adjust for extra time spent on earlier modules._
 
 | Date             | Topic                        | Slides  | Readings | Notes
 |------------------|------------------------------|---------|----------|- 
-| Fri. Dec. 1      | compiling relaxed memory models 2     |         |        | HW 3 due
+| Fri. Dec. 1      | compiling relaxed memory models 2     |  [slides](lectures/CSE211Dec1_fa2023.pdf)       |        | HW 3 due
 | Mon. Dec. 4      | Decoupled Access Execute                          |         | [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf)            | Paper needs to be approved for review 2
 | Wed. Dec. 6      | final project presentations  |         |          | 
 | Fri. Dec. 8      | final project presentations  |         |          | 
