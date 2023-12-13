@@ -12,13 +12,13 @@ Ananth ("Ant") Srikanth [@Ant-28](https://github.com/Ant-28)
 
 - [Introduction](#introduction)
   - [How do I run this?](#how-do-i-run-this)
-- [Procedure](#procedure)
+- [Procedure / Frontend](#procedure--frontend)
   - [Setting Up ANTLR4](#setting-up-antlr4)
   - [`ply`ing a grammar (no pun intended)](#plying-a-grammar-no-pun-intended)
     - [Wait. Isn't that the entire point of Bash? Spaces and tabs matter. A lot.](#wait-isnt-that-the-entire-point-of-bash-spaces-and-tabs-matter-a-lot)
   - [Back to grammars](#back-to-grammars)
   - [Eavesdropping is actually good! (not really)](#eavesdropping-is-actually-good-not-really)
-- [Modifications](#modifications)
+- [Backend Modifications](#backend-modifications)
   - [Assignment](#assignment)
   - [Expressions](#expressions)
   - [Loops and double parsing woes](#loops-and-double-parsing-woes)
@@ -41,11 +41,12 @@ To solve these problems, I decided to parse bash's grammar and add rules to allo
 
 The source code can be found [here](https://github.com/Ant-28/NuShell).
 
-### How do I run this? 
+### How do I run this?
+
 Once you've [set up ANTLR4](#setting-up-antlr4) (Note: the aliases are important), write NuSh code in foo.sh and run
 `./run_test.sh`. The output should now be in `foo_bash.sh`. Run using `./foo_bash.sh`
 
-## Procedure
+## Procedure / Frontend
 
 To parse bash, I decided to use the Antlr4 parser generator. Why? Rather than writing a function for each grammar rule in `ply`, I only needed to write the grammar once in BNF form. Additionally, ANTLR supports loading in tokens using a token file, so tokens only need to be written down once. I decided to also use a Python backend since it was simpler than trying to set up ANTLR for Java or C++.
 
@@ -123,7 +124,7 @@ parser.addParseListener(listener)
 
 
 
-## Modifications
+## Backend Modifications
 
 When modifying the grammar, the listener visits modified nodes (see below) or child node. Customized nodes are defined as `custom_children`. Additionally, this involves the use of ignorable parents, explained [here](#come-again-or-dont).
 
