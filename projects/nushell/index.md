@@ -4,9 +4,29 @@ layout: single
 classes: wide
 ---
 
+
+
 ### Author
 
 Ananth ("Ant") Srikanth [@Ant-28](https://github.com/Ant-28)
+
+- [Introduction](#introduction)
+- [Procedure](#procedure)
+  - [Setting Up ANTLR4](#setting-up-antlr4)
+  - [`ply`ing a grammar (no pun intended)](#plying-a-grammar-no-pun-intended)
+    - [Wait. Isn't that the entire point of Bash? Spaces and tabs matter. A lot.](#wait-isnt-that-the-entire-point-of-bash-spaces-and-tabs-matter-a-lot)
+  - [Back to grammars](#back-to-grammars)
+  - [Eavesdropping is actually good! (not really)](#eavesdropping-is-actually-good-not-really)
+- [Modifications](#modifications)
+  - [Assignment](#assignment)
+  - [Expressions](#expressions)
+  - [Loops and double parsing woes](#loops-and-double-parsing-woes)
+    - [Come again? Or don't.](#come-again-or-dont)
+  - [More loops (and if)](#more-loops-and-if)
+  - [Arrays and Ranges](#arrays-and-ranges)
+- [Future Work](#future-work)
+- [Conclusion](#conclusion)
+- [References](#references)
 
 ## Introduction
 
@@ -38,7 +58,7 @@ alias antlr4='java -Xmx500M -cp "/usr/local/lib/antlr-4.9.3-complete.jar:$CLASSP
 alias grun='java -Xmx500M -cp "/usr/local/lib/antlr-4.9.3-complete.jar:$CLASSPATH" org.antlr.v4.gui.TestRig'
 ```
 
-This greatly simplifies ANTLR4 execution since `antlr4` needs to be called every time the lexer and parser are generated.
+This greatly simplifies ANTLR4 execution since `antlr4` needs to be called every time the lexer and parser are generated. However, this requires that the antlr jar be in one specific location.
 
 ### `ply`ing a grammar (no pun intended)
 
@@ -391,3 +411,21 @@ Furthermore, the grammar does not support many conditions that bash does, such a
 ## Conclusion
 
 Bash is muddled with arcane syntax. From the aforementioned examples, NuShell attempts to fix that, but has a long way to go. Ideally, I would like to end up with a whole new shell that supports interoperability with bash. 
+
+
+## References 
+
+Bash Grammars:
+[Grammar 1](https://cmdse.github.io/pages/appendix/bash-grammar.html)
+[Grammar 2](https://pubs.opengroup.org/onlinepubs/9699919799.2016edition/utilities/V3_chap02.html#tag_18_10)
+
+ANTLR Tutorials
+The main ANTLR code that parses the tree (but not the grammar itself) was copied from [this blog post](https://jason.whitehorn.us/blog/2021/02/08/getting-started-with-antlr-for-python/)
+Thses tutorials are also great!
+- [ANTLR4 Grammar: A Quick Tutorial](https://medium.com/@kv391/antlr4-grammar-a-quick-tutorial-e1f0fb6ca4ff)
+- [Introduction to ANTLR](https://faun.pub/introduction-to-antlr-python-af8a3c603d23)
+- [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
+
+
+- Some guidance on how to write listeners was provided by [ChatGPT](https://chat.openai.com/)
+- The rest was based on [ANTLR documentation](https://www.antlr.org/)
