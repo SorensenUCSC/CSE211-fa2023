@@ -455,7 +455,7 @@ Bash Grammars:
 
 ### ANTLR Tutorials
 
-The main ANTLR code that parses the tree (but not the grammar itself) was copied from [this blog post](https://jason.whitehorn.us/blog/2021/02/08/getting-started-with-antlr-for-python/)
+The main ANTLR skeleton code that parses the tree (but not the grammar itself) was copied from [this blog post](https://jason.whitehorn.us/blog/2021/02/08/getting-started-with-antlr-for-python/)
 
 Thses tutorials are also great!
 
@@ -465,5 +465,7 @@ Thses tutorials are also great!
 - [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
 
-- Some guidance on how to write listeners was provided by [ChatGPT](https://chat.openai.com/)
-- The rest was based on [ANTLR documentation](https://www.antlr.org/)
+Some guidance on how to write listeners was provided by [ChatGPT](https://chat.openai.com/)
+
+
+The rest was based on [ANTLR documentation](https://www.antlr.org/)
