@@ -11,6 +11,7 @@ classes: wide
 Ananth ("Ant") Srikanth [@Ant-28](https://github.com/Ant-28)
 
 - [Introduction](#introduction)
+  - [How do I run this?](#how-do-i-run-this)
 - [Procedure](#procedure)
   - [Setting Up ANTLR4](#setting-up-antlr4)
   - [`ply`ing a grammar (no pun intended)](#plying-a-grammar-no-pun-intended)
@@ -39,6 +40,10 @@ This does not mean Bash is outright awful. Piping syntax is easy to understand a
 To solve these problems, I decided to parse bash's grammar and add rules to allow for rules that would be considered "more intuitive", coming from someone with greater familiarity with python or C. This project can take in a file in this "modified bash syntax" and spits out Bash that an interpreter can execute.
 
 The source code can be found [here](https://github.com/Ant-28/NuShell).
+
+### How do I run this? 
+Once you've [set up ANTLR4](#setting-up-antlr4) (Note: the aliases are important), write NuSh code in foo.sh and run
+`./run_test.sh`. The output should now be in `foo_bash.sh`. Run using `./foo_bash.sh`
 
 ## Procedure
 
