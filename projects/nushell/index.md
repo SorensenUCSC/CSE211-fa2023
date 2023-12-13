@@ -120,6 +120,30 @@ parser.addParseListener(listener)
 
 ## Modifications
 
+When modifying the grammar, the listener visits modified nodes (see below) or child node. Customized nodes are defined as `custom_children`. Additionally, this involves the use of ignorable parents, explained [here](#come-again-or-dont).
+
+```py
+def visitTerminal(self, ctx):
+        parentList = []
+        
+        parent_ctx = ctx.parentCtx
+        original_parent = ctx.parentCtx
+        while parent_ctx != None:
+            context_type = parent_ctx.getRuleIndex()
+            parentList.append(NewShParser.ruleNames[context_type])
+            if len(set({"for_comparison", "for_loop_expr", "array_defn"}).intersection(set(parentList))) != 0:
+                return super().exitEveryRule(ctx)
+            parent_ctx = parent_ctx.parentCtx
+
+
+
+        context_type = original_parent.getRuleIndex()
+        if NewShParser.ruleNames[context_type] not in self.custom_children:
+            self.statements.append(ctx.getText())
+
+        return super().exitEveryRule(ctx)
+```
+
 ### Assignment
 
 This one's trivial, but requires understanding how ANTLR4 creates parser actions. For an assignment, it looks like this:
