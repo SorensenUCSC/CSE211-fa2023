@@ -405,23 +405,29 @@ As expected, this returns a sequence of floats:
 ## Future Work
 
 Creating a `FLOAT` token for the range keyword is finicky since it can conflict with filenames, so that is something I plan to implement advanced floating point support, leveraging the `bc` command. 
+
 Additionally, I plan to create a custom lexer that's closer to bash's lexing rules, as seen [here](https://pubs.opengroup.org/onlinepubs/9699919799.2016edition/utilities/V3_chap02.html#tag_18_03). This also explains how strings are defined, which I would like to add to my grammar (strings are very finicky and could break IDs, if not implemented properly).
+
 Furthermore, the grammar does not support many conditions that bash does, such as test conditions in double square brackets. Additionally, consolidating ignorable parents (or finding an alternate approach to fixing double unparsing) is next on the list. 
 
 ## Conclusion
 
-Bash is muddled with arcane syntax. From the aforementioned examples, NuShell attempts to fix that, but has a long way to go. Ideally, I would like to end up with a whole new shell that supports interoperability with bash. 
+Bash is muddled with arcane syntax. From the aforementioned examples, NuShell attempts to fix that, but has a long way to go. Ideally, I would like to end up with a whole new shell that supports interoperability with bash.
 
-
-## References 
+## References
 
 Bash Grammars:
+
 [Grammar 1](https://cmdse.github.io/pages/appendix/bash-grammar.html)
+
 [Grammar 2](https://pubs.opengroup.org/onlinepubs/9699919799.2016edition/utilities/V3_chap02.html#tag_18_10)
 
 ANTLR Tutorials
+
 The main ANTLR code that parses the tree (but not the grammar itself) was copied from [this blog post](https://jason.whitehorn.us/blog/2021/02/08/getting-started-with-antlr-for-python/)
+
 Thses tutorials are also great!
+
 - [ANTLR4 Grammar: A Quick Tutorial](https://medium.com/@kv391/antlr4-grammar-a-quick-tutorial-e1f0fb6ca4ff)
 - [Introduction to ANTLR](https://faun.pub/introduction-to-antlr-python-af8a3c603d23)
 - [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
