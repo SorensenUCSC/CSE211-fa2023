@@ -27,6 +27,7 @@ Ananth ("Ant") Srikanth [@Ant-28](https://github.com/Ant-28)
 - [Future Work](#future-work)
 - [Conclusion](#conclusion)
 - [References](#references)
+  - [ANTLR Tutorials](#antlr-tutorials)
 
 ## Introduction
 
@@ -422,11 +423,12 @@ Bash Grammars:
 
 [Grammar 2](https://pubs.opengroup.org/onlinepubs/9699919799.2016edition/utilities/V3_chap02.html#tag_18_10)
 
-ANTLR Tutorials
+### ANTLR Tutorials
 
 The main ANTLR code that parses the tree (but not the grammar itself) was copied from [this blog post](https://jason.whitehorn.us/blog/2021/02/08/getting-started-with-antlr-for-python/)
 
 Thses tutorials are also great!
+
 
 - [ANTLR4 Grammar: A Quick Tutorial](https://medium.com/@kv391/antlr4-grammar-a-quick-tutorial-e1f0fb6ca4ff)
 - [Introduction to ANTLR](https://faun.pub/introduction-to-antlr-python-af8a3c603d23)
